@@ -19,7 +19,6 @@ const Footer = () => {
         {isDark ? `Light` : `Dark`}
       </button>
       Copyright &copy; Sayeed Afridi {new Date().getFullYear()}. All rights reserved.
-      
     </ThemeFooter>
   )
 }
